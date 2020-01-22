@@ -1,3 +1,1 @@
-# Hello
-
-[coronavirus outbreak china sparks super spreader fears](2020-01-22/coronavirus-outbreak-china-sparks-super-spreader-fears.md)
+## [2020/01/22 Coronavirus Outbreak China Sparks Super Spreader Fears](2020-01-22/coronavirus-outbreak-china-sparks-super-spreader-fears.md)
